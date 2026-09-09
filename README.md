@@ -16,8 +16,6 @@ AI & Data Engineer · Data Analyst
 
 Building data pipelines and LLM-based systems in production across healthcare, legal, and retail — from ETL/ELT and warehouse modeling to RAG pipelines and the dashboards that put results in front of stakeholders.
 
-**Currently:** Data Engineer @ Humana, building HIPAA-compliant pipelines over 3M+ daily member records
-
 **Education:** MS Computer Science, University of Maryland, Baltimore County (GPA 3.96/4.0)
 
 <div align="center">
@@ -46,7 +44,6 @@ Python · SQL · Spark / PySpark · Databricks · Snowflake · Azure · AWS · d
 
 **Highlights**
 - Cut legal-document review time 98x (15 hrs → 7 min per 1,000 docs) and raised classification accuracy from 34% to 94.5%
-- Built audit-ready healthcare datasets powering ML-based claims fraud detection, contributing to $3.2M in overpayment recovery
 - Rebuilt claims/eligibility transformations as dbt models, cutting manual SQL scripting 60% with zero HIPAA/CMS audit violations
 
 **Featured Project**
